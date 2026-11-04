@@ -1,4 +1,4 @@
-# 📊 Pizza Bessa - Projeto
+# 📊 Pizza à Bessa - Projeto
 
 > **[Uma frase curta e direta explicando o impacto do projeto. Ex: Modelo preditivo de Churn integrado a um painel analítico para redução de perdas de clientes.]**
 
